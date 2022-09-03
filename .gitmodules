@@ -1,0 +1,8 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/yPerrot/SubGit-client.git
+	branch = master
+[submodule "server"]
+	path = server
+	url = https://github.com/yPerrot/SubGit-server.git
+	branch = master
