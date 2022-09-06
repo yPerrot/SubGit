@@ -24,7 +24,7 @@ The backend is a Node.js server, written in TypeScript and deployed with [Fly.io
 
 You can access it through this url: 
 ```
-https://subgit-server.fly.dev/dowload?url=<DIR_URL>
+https://subgit-server.fly.dev/download?url=<DIR_URL>
 ```
 
 ## License
